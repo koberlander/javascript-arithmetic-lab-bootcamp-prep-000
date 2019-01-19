@@ -30,6 +30,6 @@ function makeInt(n){
 }
 
 function preserveDecimal(n){
-  var preserved = parseFloat('n.1234');
+  var preserved = parseFloat('2.222');
   return preserved;
 }
